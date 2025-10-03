@@ -11,6 +11,6 @@ I'm a passionate Mobile & Web Developer based in Toronto, Canada 🇨🇦 — wi
 
 📱 I've published several apps on the Play Store, and I'm always refining my skills by exploring modern tools like AWS, Firebase, and scalable backend technologies.
 
-🔗 Check out my portfolio: [aaftab.me](https://aaftab.me)
+🔗 Check out my portfolio: [aaftab.me](https://aaftab.tech)
 
 Let’s build something awesome together!
